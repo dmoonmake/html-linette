@@ -1,0 +1,12 @@
+body {
+    background-color: #E3C770;
+}
+
+container {
+    display: grid;
+
+}
+.bg-photo {
+    background-size: cover;
+    background-image: url("./images/bird_flower1.png");
+  }
